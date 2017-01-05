@@ -6,6 +6,7 @@ public abstract class Bank {
 		Customer a=new Customer();
 		a.getcustomerdetails();
 		a.getloan();
+		a.giveloanforCar();
 
 	}
 
